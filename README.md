@@ -33,6 +33,6 @@ Encryption.EndSession();
 
 ## TODOs
 
-- Add a 5-10 second limit on all request methods to prevent conenction tampering.
+- Add a 5-10 second limit on all request methods to prevent connection tampering.
 - Add debugger protection as well as using SecureString class for all recieved strings.
 - Fix any security bugs I may have overlooked as I hastily made this project.
