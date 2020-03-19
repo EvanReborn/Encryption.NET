@@ -18,7 +18,7 @@ namespace Vigilante
         internal static string IV { get; set; }
 
         // Private random generated with a custom seed (You can change it)
-        internal static Random random = new Random(934857);
+        internal static Random random = new Random();
 
         // Keeps track of sessions.
         internal static bool SessionStarted;
