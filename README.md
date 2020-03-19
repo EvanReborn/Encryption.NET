@@ -1,6 +1,6 @@
 # Vigilante
 
-Dynamic encryption Key and IV for every request, HTTP Debugger protection and server sided variables all in one library.
+Dynamic encryption Key and IV for every request, HTTP Debugger protection and a more secure WebClient all in one library.
 
 WARNING: This is more of a PoC, not everything has been fully tested and I will update in the future. Feel free to make suggestions!
 
