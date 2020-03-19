@@ -2,7 +2,7 @@
 
 Dynamic encryption Key and IV for every request, HTTP Debugger protection and a more secure WebClient all in one library.
 
-WARNING: This is more of a PoC, not everything has been fully tested and I will update in the future. Feel free to make suggestions!
+*WARNING: This is more of a PoC, not everything has been fully tested and I will update in the future. Feel free to make suggestions!*
 
 **Evan#5948** is the sole creator and owner of this project.
 
