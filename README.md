@@ -21,11 +21,11 @@ The client-side generates random encryption Keys and IVs and encrypts requests a
 Encryption.StartSession(); 
 
 // Send the values along with the current Key and IV to the server side for decryption and review
-SecureWebClient.SendEncrypteValues("", new NameValueCollection 
+SecureWebClient.SendEncrypteValues("http://yourdomain.ltd/", new NameValueCollection 
 {
   ["example"]     = Encryption.Encrypt("data"),
   ["example2"]    = Encryption.Encrypt("data2")
-}, "");
+}, "CUSTOM_USERAGENT");
 
 // End the session and purge the encryption info
 Encryption.EndSession();
