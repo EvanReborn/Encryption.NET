@@ -4,7 +4,7 @@ Dynamic encryption Key and IV for every request, HTTP Debugger protection and a 
 
 *WARNING: This is more of a PoC, not everything has been fully tested and I will update in the future. Feel free to make suggestions!*
 
-**Evan#5948** is the sole creator and owner of this project.
+**Sensuret#0001** is the sole creator and owner of this project.
 
 ## Usage
 
