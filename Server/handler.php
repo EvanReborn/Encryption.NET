@@ -40,6 +40,6 @@ if (!isset($_POST['session_id']) || !isset($_POST['request_id'])) {
 }
 
 // Handle the request
-// Example: Decrypt($_POST['example']);
+// Example: Decrypt($_POST['example']); and die(Encrypt("response"));
 
 ?>
