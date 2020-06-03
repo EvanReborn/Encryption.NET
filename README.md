@@ -1,4 +1,4 @@
-# Vigilante
+# Secure E2EE & Encrypted Files
 
 Dynamic encryption Key and IV for every request, HTTP Debugger protection and a more secure WebClient all in one library.
 
